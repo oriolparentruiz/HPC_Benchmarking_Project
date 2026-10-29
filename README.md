@@ -102,7 +102,3 @@ Speedup is relative to the MPI-only run. INT1 is about 3.3× faster than MPI-onl
 
 - **Lucas Viner**
 - **Oriol Parent**
-
-## 📝 License
-
-This project is licensed under the MIT License.
