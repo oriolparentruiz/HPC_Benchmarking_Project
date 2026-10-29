@@ -2,9 +2,6 @@
 
 Benchmarking of parallel applications on a high-performance computing cluster, comparing **MPI, OpenMP and hybrid parallelisation** on the NAS Parallel Benchmarks (multi-zone) and **GPU workloads with TensorFlow**, with the aim of understanding how each strategy affects execution time, resource usage and energy consumption.
 
-> Project for *High Performance Computing* · Universitat Politècnica de Catalunya (UPC) · Bachelor's in Data Science and Engineering (GCED) · Academic year <YYYY–YYYY>
-> Authors: **<Author 1>**, **<Author 2>**
-
 ---
 
 ## 📌 Overview
